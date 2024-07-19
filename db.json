@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Essence Mascara Lash Princess",
+      "price": "1000",
+      "image": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+    },
+    {
+      "id": "2",
+      "name": "Eyeshadow Palette with Mirror",
+      "price": "2000",
+      "image":  "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
+    },
+          {
+            "id": "3",
+            "name": "Powder Canister",
+            "price": "3000",
+            "image":   "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
+    },
+    {
+      "id": "4",
+      "name": "Red Lipstick",
+      "price": "4000",
+      "image": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"    
+    },
+    {
+      "id": "5",
+      "name": "Red Nail Polish",
+      "price": "5000",
+      "image": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
+      },
+      {
+        "id": "6",
+        "name": "Calvin Klein CK One",
+        "price": "6000",
+        "image": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png"
+      },
+      {
+        "id": "7",
+        "name": "Chanel Coco Noir Eau De",
+        "price": "7000",
+        "image":   "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png"
+      },
+      {
+        "id": "8",
+        "name": "Dior J'adore",
+        "price": "8000",
+        "image" :   "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png"
+      },
+      {
+        "id": "9",
+        "name": "Dolce Shine Eau de",
+        "price": "9000",
+        "image": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png"
+      },
+      {
+        "id": "10",
+        "name": "Gucci Bloom Eau de",
+        "price": "10000",
+        "image": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png"
+      },
+      {
+        "id": "11",
+        "name": "Annibale Colombo Bed",
+        "price": "11000",
+        "image":  "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png"
+      },
+      {
+        "id": "12",
+        "name": "Annibale Colombo Sofa",
+        "price": "12000",
+        "image":   "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png"
+      }
+  ]
+}
